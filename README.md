@@ -15,7 +15,7 @@ Feel free to check other variants of this dApp:
 Following code is NOT production ready. It may contain bugs and be not gas efficient. It was created as learning project. Feel free to use it as an example of creating ERC721 token (non-fungible token) and dApp associated with it.
 
 
-## Tooling: 
+## Tooling
 **Frontend**: TypeScript / VueJS / VueX / Vuetify / Ethers
 
 **Smart contract**: Solidity / HardHat / Chai / Mocha / Waffle
