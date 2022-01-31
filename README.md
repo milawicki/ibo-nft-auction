@@ -25,7 +25,7 @@ Following code is NOT production ready. It may contain bugs and be not gas effic
 1. Clone this repository
 
 ```
-git clone https://github.com/milawicki/ibo-auction
+git clone https://github.com/milawicki/ibo-nft-auction
 ```
 
 2. Install smart contract dependencies
